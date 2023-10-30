@@ -8,7 +8,9 @@ A könyvtárat eredetileg Gamestar készített, viszont hivatalos formában már
 
 Egyszerűen a parancssorban (amennyiben a sampctl telepítése már megtörtént) írd be a következőt:
 
-`sampctl install House9919/SA-MP-GSFixchars`
+```bash
+sampctl install House9919/SA-MP-GSFixchars
+```
 
 Ha ez megtörtént, akkor egyszerűen csak add hozzá a következőt a játékmód/filterscript elejére:
 
