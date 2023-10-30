@@ -1,0 +1,2 @@
+# SA-MP-GSFixchars
+ 
